@@ -1,0 +1,49 @@
+{
+  "anilist_id": 857,
+  "episode": 1,
+  "server_data": {
+    "success": true,
+    "servers": [
+      {
+        "$id": "hd1-4b8vnyvj9ssg-sub",
+        "serverName": "HD-1",
+        "dataLink": "https://flixcloud.cc/e/4b8vnyvj9ssg?v=1",
+        "dataType": "sub",
+        "continue": false,
+        "softsub": false
+      },
+      {
+        "$id": "hd1-4b8vnyvj9ssg-dub",
+        "serverName": "HD-1",
+        "dataLink": "https://flixcloud.cc/e/4b8vnyvj9ssg?v=1",
+        "dataType": "dub",
+        "continue": false,
+        "softsub": false
+      },
+      {
+        "$id": "hd2-4b8vnyvj9ssg-sub",
+        "serverName": "HD-2",
+        "dataLink": "https://flixcloud.cc/e/4b8vnyvj9ssg?v=2",
+        "dataType": "sub",
+        "continue": false,
+        "softsub": false
+      },
+      {
+        "$id": "hd2-4b8vnyvj9ssg-dub",
+        "serverName": "HD-2",
+        "dataLink": "https://flixcloud.cc/e/4b8vnyvj9ssg?v=2",
+        "dataType": "dub",
+        "continue": false,
+        "softsub": false
+      }
+    ]
+  },
+  "flixcloud_url": "https://flixcloud.cc/e/4b8vnyvj9ssg?v=1",
+  "video_id": "2f4d95ee-e84b-42b6-9c0c-be932329ed5e",
+  "aid": "4b8vnyvj9ssg",
+  "m3u8_urls": {
+    "master": "https://fetch.flixcloud.cc/_v7/2f4d95ee-e84b-42b6-9c0c-be932329ed5e/master.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlb19pZCI6IjJmNGQ5NWVlLWU4NGItNDJiNi05YzBjLWJlOTMyMzI5ZWQ1ZSIsImNsaWVudF9pcCI6IjEwNC4yMTUuMjUyLjE0OCIsImV4cCI6MTc4NTcyNDA2MywiaWF0IjoxNzg1NzAyNDYzLCJpc3MiOiJ2aWRlby1ob3N0aW5nLXBsYXRmb3JtIn0.tt65bPNtQeE1TnshkuwhwBqN-l3JZHavk5RuVD75QrY",
+    "video": "https://fetch.flixcloud.cc/_v7/2f4d95ee-e84b-42b6-9c0c-be932329ed5e/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlb19pZCI6IjJmNGQ5NWVlLWU4NGItNDJiNi05YzBjLWJlOTMyMzI5ZWQ1ZSIsImNsaWVudF9pcCI6IjEwNC4yMTUuMjUyLjE0OCIsImlzcyI6InZpZGVvLWhvc3RpbmctcGxhdGZvcm0iLCJleHAiOjE3ODU3ODg4NjUsImlhdCI6MTc4NTcwMjQ2NX0.8yk5UlWTGlvwU0sL8NbrL_1zEtYNoXN3-pArvmj-FpM",
+    "audio": "https://fetch.flixcloud.cc/_v7/2f4d95ee-e84b-42b6-9c0c-be932329ed5e/audio/native.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlb19pZCI6IjJmNGQ5NWVlLWU4NGItNDJiNi05YzBjLWJlOTMyMzI5ZWQ1ZSIsImNsaWVudF9pcCI6IjEwNC4yMTUuMjUyLjE0OCIsImlzcyI6InZpZGVvLWhvc3RpbmctcGxhdGZvcm0iLCJleHAiOjE3ODU3ODg4NjUsImlhdCI6MTc4NTcwMjQ2NX0.8yk5UlWTGlvwU0sL8NbrL_1zEtYNoXN3-pArvmj-FpM"
+  }
+}
